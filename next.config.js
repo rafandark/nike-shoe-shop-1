@@ -2,9 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
 
-  experimental: {
-    runtime: "experimental-edge",
-  },
+
   eslint: {
       ignoreDuringBuilds: true,
   },
