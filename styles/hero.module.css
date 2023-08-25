@@ -1,0 +1,6 @@
+.g1{
+   
+background-image: linear-gradient(43deg, #00ffe1 0%, #913ce2 30%, #ff5b1f 66%, #ff1414 100%);
+
+    filter: blur(150px);
+}
