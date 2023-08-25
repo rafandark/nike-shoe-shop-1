@@ -3,7 +3,7 @@ import NextNProgress from 'nextjs-progressbar';
 import ProductCard from '../../components/ProductCard'
 import React, { useEffect, useState } from 'react'
 import useSWR from 'swr'
-import Loading from '../loading'
+import Loading from '../Loading'
 import Layout from '../../components/Layout';
 import {fetchDataFromApi} from '../../utilis/api'
 
