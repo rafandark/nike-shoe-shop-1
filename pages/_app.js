@@ -1,6 +1,5 @@
 import "../styles/globals.css";
 import Head from "next/head";
-import { Loader } from "./Loader";
 import { ClerkProvider } from "@clerk/nextjs";
 import { Provider } from 'react-redux'
 import store from "../store/store";
